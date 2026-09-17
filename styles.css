@@ -1,2 +1,14 @@
-/* Landing Page Styles */
-body { font-family: sans-serif; margin: 0; padding: 0; }
+!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KIFlow</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <section class="cta">
+    <a class="cta-button" href="https://buy.stripe.com/beispiel">Jetzt starten</a>
+  </section>
+</body>
+</html>
